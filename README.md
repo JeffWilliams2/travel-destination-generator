@@ -13,6 +13,12 @@ A serverless web application that leverages AWS services and Anthropic's Claude 
 
 ![Application Screenshot](https://via.placeholder.com/800x400?text=Travel+Destination+Generator+Screenshot)
 
+![Travel Destination Generator Screenshot](assets/images/BlankDemo.png)
+*Initial application interface*
+
+![Example Prompt and Response](assets/images/PromptDemo.png)
+*Example of interest inputs and destination recommendations*
+
 ## Architecture
 
 This application follows a modern cloud-native architecture based on AWS Amplify, AWS AppSync, and Amazon Bedrock:
