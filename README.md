@@ -11,9 +11,7 @@
 
 A serverless web application that leverages AWS services and Anthropic's Claude 3 Sonnet model (via Amazon Bedrock) to create personalized travel destination recommendations based on user interests. This project demonstrates end-to-end data engineering with a Git-based CI/CD workflow through AWS Amplify for building, deploying, and hosting a React application with a serverless backend.
 
-![Application Screenshot](https://via.placeholder.com/800x400?text=Travel+Destination+Generator+Screenshot)
-
-![Travel Destination Generator Screenshot](assets/images/BlankDemo.png)
+![Travel Destination Generator Screenshot]([assets/images/BlankDemo.png](https://github.com/JeffWilliams2/travel-destination-generator/blob/main/BlankDemo.png))
 *Initial application interface*
 
 ![Example Prompt and Response](assets/images/PromptDemo.png)
